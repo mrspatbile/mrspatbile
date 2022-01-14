@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on educational projects that uses python to teach finance, maths/statistics
 - 📫 How to reach me: mrspatbile@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrspatbile&theme=blue-green)
 
-Have fun:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
