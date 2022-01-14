@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mrspatbile
-- 👀 I’m interested in finance, financial engineering, machine learning, AI
+- 👋 Hi, I’m @mrspatbile, a doctoral researcher in Finance and python evangelist
+- 👀 I’m interested in finance, financial engineering, portfolio management, machine learning, AI
 - 🌱 I’m am an pythonist, but I am current refreshing my knowledge in R
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on educational projects with python and finance
 - 📫 How to reach me: mrspatbile@gmail.com
 
 <!---
