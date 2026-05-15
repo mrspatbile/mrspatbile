@@ -3,8 +3,6 @@
 - 🌱 I’m am an pythonist and a python evangelist
 - 📫 How to reach me: mrspatbile@gmail.com
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrspatbile&theme=blue-green)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
