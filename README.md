@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @mrspatbile, I am a Finance Professional and Researcher
-- 👀 I’m interested in Finance, Financial Engineering, Portfolio Management, Machine Learning, AI
-- 🌱 I’m am an pythonist and a python evangelist
-- 📫 How to reach me: mrspatbile@gmail.com
+Risk and quantitative finance professional based in Luxembourg. 
+
+Building open-source implementations of regulatory risk frameworks and quantitative 
+pricing infrastructure in Python.
+
+Current work: AIFMD II and UCITS risk analytics, EU banking regulatory capital 
+(IRRBB, FRTB, CRR3), and a QuantLib-based pricing engine covering fixed income, 
+derivatives, and exotic options.
+
+CFA charterholder. PhD in Finance, University of Luxembourg.
+
+How to reach me: mrspatbile@gmail.com
 
 <!---
 mrspatbile/mrspatbile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
