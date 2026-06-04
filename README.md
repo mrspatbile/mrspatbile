@@ -1,13 +1,9 @@
-Risk and quantitative finance professional based in Luxembourg. 
+I build Python tools covering fund risk analytics, banking capital frameworks, 
+and derivatives pricing.
 
-Building open-source implementations of regulatory risk frameworks and quantitative 
-pricing infrastructure in Python.
-
-Current work: AIFMD II and UCITS risk analytics, EU banking regulatory capital 
-(IRRBB, FRTB, CRR3), and a QuantLib-based pricing engine covering fixed income, 
-derivatives, and exotic options.
-
-CFA charterholder. PhD in Finance, University of Luxembourg.
+Current projects: AIFMD II and UCITS risk frameworks, EU banking regulatory 
+capital (IRRBB, FRTB, CRR3), and a QuantLib-based pricing engine for fixed 
+income, derivatives, and exotic options.
 
 How to reach me: mrspatbile@gmail.com
 
